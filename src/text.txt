@@ -1,3 +1,0 @@
-This is test file from Local
-CHANGES ARE FROM GIT REMOTE
-Ok now this is again local commit 
